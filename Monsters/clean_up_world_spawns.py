@@ -1,6 +1,5 @@
 import json
 
-
 if __name__ == "__main__":
     with open('world_spawns_old.json') as world_spawns:
         data = json.load(world_spawns)
